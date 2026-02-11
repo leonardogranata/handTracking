@@ -19,7 +19,7 @@ O sistema reconhece até **duas mãos simultaneamente** e exibe na tela o total 
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/leonardogranata/handTracking.git
 cd seu-repositorio
 ```
 
@@ -34,7 +34,7 @@ pip install opencv-python mediapipe
 ## ▶️ Como executar
 
 ```bash
-python nome_do_arquivo.py
+python main.py
 ```
 
 É necessário possuir uma webcam funcional.
